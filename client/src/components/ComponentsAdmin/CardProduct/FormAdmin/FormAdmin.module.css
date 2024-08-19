@@ -1,0 +1,36 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40vw;
+  padding: 20px;
+  /* border: 1px solid #3f3e3e ; */
+  border-radius: 10px;
+  /* background-color: rgb(240, 240, 240); */
+}
+
+.head {
+  margin-bottom: 12px;
+}
+
+.inputs {
+  width: 700px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.btns {
+  margin-top: 20px;
+}
+
+.inImage {
+  /* height: 100px; */
+}
+
+.pad {
+  height: 10px;
+}

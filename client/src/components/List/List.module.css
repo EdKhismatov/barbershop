@@ -1,0 +1,10 @@
+.wrapper {
+  margin-top: 40px;
+
+  display: flex;
+  flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 200px;
+  /* grid-template-columns: 1fr 1fr 1fr; */
+}
