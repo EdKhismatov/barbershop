@@ -33,5 +33,12 @@
 ![Главная](https://github.com/EdKhismatov/barbershop/blob/main/foto/корзина.png)
 
 
+<h2>Админка</h2>
+
+![Админка](https://github.com/EdKhismatov/barbershop/blob/main/foto/админ.png)
+![Админка](https://github.com/EdKhismatov/barbershop/blob/main/foto/редактирование.png)
+![Админка](https://github.com/EdKhismatov/barbershop/blob/main/foto/редактирование2.png)
+![Админка](https://github.com/EdKhismatov/barbershop/blob/main/foto/слайдер.png)
+
 
 
